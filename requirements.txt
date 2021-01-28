@@ -1,0 +1,4 @@
+boto3==1.9.176
+websocket-client==0.56.0
+wireless==0.3.2
+texttospeech
